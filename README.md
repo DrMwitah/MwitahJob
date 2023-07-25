@@ -96,5 +96,4 @@
 
 </p>
 
-## 🥇 Badge Board
-[![@technophile04's Holopin board](https://holopin.me/mwitahjob)](https://holopin.io/@mwitahjob)
+
